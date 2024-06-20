@@ -1,6 +1,6 @@
 # Image Component Detection Web App
 
-This project is a web application built with Streamlit that leverages the YOLOv5 model for object detection. The app allows users to upload an image, which is then analyzed to detect and label various components present in the image. The detected components are displayed with bounding boxes and confidence scores.
+This project is a web application built with Streamlit that leverages the **YOLOv5** model for object detection. The app allows users to upload an image, which is then analyzed to detect and label various components present in the image. The detected components are displayed with bounding boxes and confidence scores.
 
 ## Features
 
